@@ -1,0 +1,28 @@
+{
+  "name": "puppyparty",
+  "version": "1.0.0",
+  "description": "Puppy Party on the PERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolaarOfficial/puppypartypern.git"
+  },
+  "author": "PolaarOfficial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolaarOfficial/puppypartypern/issues"
+  },
+  "homepage": "https://github.com/PolaarOfficial/puppypartypern#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  }
+}
